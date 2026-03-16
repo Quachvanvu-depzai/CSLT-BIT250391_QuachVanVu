@@ -2,10 +2,10 @@ class Vector:
     def __init__(self, x, y):
         self.x = x
         self.y = y
-    def __add__(self, other):
-        if isinstance(other, Vector):
-            new_x = self.x + other.x
-            new_y = self.y + other.y
+    def __add__(self, khac):
+        if isinstance(khac, Vector):
+            new_x = self.x + khac.x
+            new_y = self.y + khac.y
             return Vector(new_x, new_y)
         return NotImplemented
     def __str__(self):
