@@ -1,0 +1,2 @@
+nn1;coca;10.0
+nn2;pepsi;15.0
