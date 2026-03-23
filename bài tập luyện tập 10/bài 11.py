@@ -1,5 +1,4 @@
-# --- CÁC HÀM TRỐNG ĐỂ CHỨA CODE TỪ BÀI 1 ĐẾN BÀI 10 ---
-# Bạn hãy dán code của từng bài tương ứng vào bên trong các hàm này
+
 def bai_1():
     def lay_ten_co_duoi(duong_dan):
         duong_dan_chuan = duong_dan.replace('\\', '/')
