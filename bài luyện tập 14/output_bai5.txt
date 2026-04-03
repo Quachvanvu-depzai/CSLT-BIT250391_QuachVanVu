@@ -1,0 +1,4 @@
+doraemon;30000
+conan;50000
+novel;100000
+Tong;180000
